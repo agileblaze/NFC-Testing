@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC Application</string>
+    <string name="message">Please keep devices back to back</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
