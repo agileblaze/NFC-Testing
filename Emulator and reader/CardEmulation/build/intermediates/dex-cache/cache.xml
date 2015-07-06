@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d5bf383bd3a717c3dcfe4d7b004fd4f5ecc74f3c.jar" />
+    </item>
+    <item
+        jar="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-dadf0127723936309b0a2e1435eeaca178de7d9e.jar" />
+    </item>
+    <item
+        jar="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-3ef7b35f8ab50bbd75ecbbb6f3fc70451b300a9b.jar" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-0ea38f83f47700eb3f8843276a43ffb36e59b1a9.jar" />
+    </item>
+    <item
+        jar="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-2503f296f54c06547a371d936cf9cb947fe84e79.jar" />
+    </item>
+    <item
+        jar="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/home/manager/Desktop/NFCTesting/CardEmulation/Application/build/intermediates/pre-dexed/debug/classes-618eec78bf4b199b179b9b36ba62a4658a41e004.jar" />
+    </item>
+
+</items>
